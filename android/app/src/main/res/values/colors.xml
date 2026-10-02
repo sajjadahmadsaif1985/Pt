@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Islamic Emerald & Gold Palette -->
+    <color name="primary_emerald">#0C5A38</color>
+    <color name="primary_emerald_dark">#083D26</color>
+    <color name="primary_emerald_light">#167D50</color>
+    <color name="accent_gold">#D4AF37</color>
+    <color name="accent_gold_light">#F5E6AB</color>
+    <color name="bg_light">#F7FAF8</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="text_primary">#1A2E26</color>
+    <color name="text_secondary">#526E63</color>
+    <color name="text_tertiary">#8BA398</color>
+    <color name="border_subtle">#E2ECE6</color>
+    <color name="highlight_active">#EBF7F0</color>
+</resources>

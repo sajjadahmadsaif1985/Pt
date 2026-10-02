@@ -1,0 +1,6 @@
+{
+  "name": "Pakistan Prayer Times",
+  "description": "Authentic Islamic prayer times calculation engine and native Android application for Pakistani cities using University of Islamic Sciences, Karachi method.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

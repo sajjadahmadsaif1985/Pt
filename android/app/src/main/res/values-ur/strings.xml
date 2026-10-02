@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">پاکستان نماز کے اوقات</string>
+    <string name="title_home">صفحہ اول</string>
+    <string name="title_monthly">ماہانہ نظام الاوقات</string>
+    <string name="title_settings">ترتیبات</string>
+
+    <!-- Prayer Names -->
+    <string name="prayer_fajr">فجر</string>
+    <string name="prayer_sunrise">طلوع آفتاب</string>
+    <string name="prayer_dhuhr">ظہر</string>
+    <string name="prayer_asr">عصر</string>
+    <string name="prayer_maghrib">مغرب</string>
+    <string name="prayer_isha">عشاء</string>
+
+    <!-- Prayer Status -->
+    <string name="current_prayer">موجودہ نماز</string>
+    <string name="next_prayer">اگلی نماز</string>
+    <string name="next_prayer_in">اگلی نماز میں باقی وقت</string>
+    <string name="time_remaining">باقی وقت</string>
+
+    <!-- Navigation & Dates -->
+    <string name="prev_day">پچھلا دن</string>
+    <string name="today">آج</string>
+    <string name="next_day">اگلا دن</string>
+    <string name="select_city">شہر منتخب کریں</string>
+    <string name="select_month">مہینہ منتخب کریں</string>
+
+    <!-- Settings -->
+    <string name="settings_selected_city">منتخب شہر</string>
+    <string name="settings_calc_method">طریقہ حساب</string>
+    <string name="settings_calc_method_val">جامعہ علوم اسلامیہ علامہ بنوری ٹاؤن، کراچی</string>
+    <string name="settings_asr_method">طریقہ عصر</string>
+    <string name="settings_asr_method_val">حنفی (سایہ مثلین)</string>
+    <string name="settings_time_format">وقت کا فارمیٹ</string>
+    <string name="settings_12_hour">12 گھنٹے (صبح / شام)</string>
+    <string name="settings_24_hour">24 گھنٹے</string>
+    <string name="settings_language">زبان</string>
+    <string name="settings_lang_en">English</string>
+    <string name="settings_lang_ur">اردو</string>
+    <string name="settings_about">ایپلیکیشن کے متعلق</string>
+    <string name="calc_info_title">اوقات نماز کے حساب کی معلومات</string>
+    <string name="calc_info_desc">نماز کے اوقات جامعہ علوم اسلامیہ علامہ بنوری ٹاؤن کراچی کے مروجہ فلکیاتی قواعد اور منتخب شہر کے جغرافیائی نقاط (طول بلد و عرض بلد) کی بنیاد پر حساب کیے جاتے ہیں۔\n\nفجر زاویہ: 18 ڈگری زیر افق\nعشاء زاویہ: 18 ڈگری زیر افق\nعصر: حنفی طریقہ (دوگنا سایہ)\nٹائم زون: پاکستان کا معیاری وقت (UTC+05:00)\n\nنوٹ: یہ اوقات نماز کے دخول کے اصل شرعی فلکیاتی اوقات ہیں۔ مساجد کے باجماعت اقامت کے اوقات مقامی انتظامیہ کے مطابق مختلف ہو سکتے ہیں۔</string>
+
+    <!-- Cities -->
+    <string name="city_nowshera">نوشہرہ</string>
+    <string name="city_peshawar">پشاور</string>
+    <string name="city_charsadda">چارسدہ</string>
+    <string name="city_mardan">مردان</string>
+    <string name="city_attock">اٹک</string>
+</resources>
